@@ -1639,7 +1639,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.waitlessq.waitlessq;
+				PRODUCT_BUNDLE_IDENTIFIER = com.erwe.waitlessq;
 				PRODUCT_NAME = BGGeolocation;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1673,7 +1673,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.waitlessq.waitlessq;
+				PRODUCT_BUNDLE_IDENTIFIER = com.erwe.waitlessq;
 				PRODUCT_NAME = BGGeolocation;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
